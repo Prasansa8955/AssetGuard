@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1026310381062",
+    "project_id": "assetguard-app",
+    "storage_bucket": "assetguard-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026310381062:android:52a65798b1184767c0ed87",
+        "android_client_info": {
+          "package_name": "com.tourism.assetguard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh_lkOAUuBMnvgaQdqtHouRuCE8m54on8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
